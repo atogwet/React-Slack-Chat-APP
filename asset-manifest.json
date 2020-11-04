@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Slack-Chat-APP/static/css/main.c378e40a.chunk.css",
+    "main.js": "/React-Slack-Chat-APP/static/js/main.c2580a6b.chunk.js",
+    "main.js.map": "/React-Slack-Chat-APP/static/js/main.c2580a6b.chunk.js.map",
+    "runtime-main.js": "/React-Slack-Chat-APP/static/js/runtime-main.f201b2ea.js",
+    "runtime-main.js.map": "/React-Slack-Chat-APP/static/js/runtime-main.f201b2ea.js.map",
+    "static/css/2.ae30a843.chunk.css": "/React-Slack-Chat-APP/static/css/2.ae30a843.chunk.css",
+    "static/js/2.2f6485f2.chunk.js": "/React-Slack-Chat-APP/static/js/2.2f6485f2.chunk.js",
+    "static/js/2.2f6485f2.chunk.js.map": "/React-Slack-Chat-APP/static/js/2.2f6485f2.chunk.js.map",
+    "static/js/3.c6994080.chunk.js": "/React-Slack-Chat-APP/static/js/3.c6994080.chunk.js",
+    "static/js/3.c6994080.chunk.js.map": "/React-Slack-Chat-APP/static/js/3.c6994080.chunk.js.map",
+    "index.html": "/React-Slack-Chat-APP/index.html",
+    "static/css/2.ae30a843.chunk.css.map": "/React-Slack-Chat-APP/static/css/2.ae30a843.chunk.css.map",
+    "static/css/main.c378e40a.chunk.css.map": "/React-Slack-Chat-APP/static/css/main.c378e40a.chunk.css.map",
+    "static/js/2.2f6485f2.chunk.js.LICENSE.txt": "/React-Slack-Chat-APP/static/js/2.2f6485f2.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/React-Slack-Chat-APP/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f201b2ea.js",
+    "static/css/2.ae30a843.chunk.css",
+    "static/js/2.2f6485f2.chunk.js",
+    "static/css/main.c378e40a.chunk.css",
+    "static/js/main.c2580a6b.chunk.js"
+  ]
+}
